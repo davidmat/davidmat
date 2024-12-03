@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data, Cloud, DevOps, Security, and all its permutations (DevSecDataOps anyone?)
 - 🌱 I’m building on Cloud native data platforms, on AWS and Snowflake, with lakehouse architectures based on Apache Iceberg 
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me: david at dmat.dev, or @davidmat on the main socials
+- 📫 How to reach me: hello at davidm dot at, or @davidmat on the main socials
